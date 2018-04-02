@@ -8,3 +8,5 @@ console.log(name)
 
 console.log("Height:")
 console.log(height)
+
+// stop using a string to store a number if you don't need to!!
